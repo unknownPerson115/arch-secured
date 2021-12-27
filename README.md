@@ -10,3 +10,6 @@ this repository will be archived until I beginb writing code that will belong to
 - [ ] Having a way to contact everyone else via communication over matrix
 - [ ] installed necessary things like lxdm desktop etc
 - [ ] installed optional things (that are to be ran in SANDBOX ONLY) like discord element steam etc
+
+
+**COMING SOON**
