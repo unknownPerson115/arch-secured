@@ -1,7 +1,7 @@
 # arch-secured
 repo for securing arch linux (when this repo comes out only a select few will have access)
 
-# Please Note
+### Please Note
 this repository will be archived until I begin writing code that will belong to the security protocols of arch-secured and may include an image of arch-securedOS
 
 - [ ] Encryption to the image
@@ -11,5 +11,7 @@ this repository will be archived until I begin writing code that will belong to 
 - [ ] installed necessary things like lxdm desktop etc
 - [ ] installed optional things (that are to be ran in SANDBOX ONLY) like discord element steam etc
 
+### TODO-CURRENTLY
+- [ ] Finish remaining tasks (modify the linux-zen kernel)
 
 **COMING SOON**
