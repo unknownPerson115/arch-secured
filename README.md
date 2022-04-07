@@ -14,4 +14,4 @@ this repository will be archived until I begin writing code that will belong to 
 ### TODO-CURRENTLY
 - [ ] Finish remaining tasks (modify the linux-zen kernel)
 
-**COMING SOON**
+# REPO HAS BEEN MIGRATED ELSEWHERE
