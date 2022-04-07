@@ -1,4 +1,4 @@
-# REPO HAS BEEN MIGRATED ELSEWHERE
+# REPO HAS BEEN MIGRATED ELSEWHERE: https://github.com/Fangieuemo/Arch-Secured
 
 # arch-secured
 repo for securing arch linux (when this repo comes out only a select few will have access)
